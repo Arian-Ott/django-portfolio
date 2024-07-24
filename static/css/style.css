@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+* {
+  background-color: #222222;
+}
+
+/*# sourceMappingURL=style.css.map */
